@@ -1,0 +1,31 @@
+<html>
+<style type="text/css">
+  .boton{
+    padding: 8px;
+    font-weight: 550;
+    font-size: 17px;
+    width: 200px;
+    height: 60px;
+  }
+</style>
+<script type="text/javascript">
+	function opcion(opc){
+		switch(opc){
+			case 'Especialidades':
+			top.frames['2'].location.href = " ";
+			break;
+		}
+		opc="";
+
+	}
+</script>
+<body>
+	<table align="center" border="0">
+		<tr><td><input type="submit" value="Especialidades" id="btnEspecialidades" name="btnEspecialidades" class="boton" onclick="opcion('Especialidades');"></td></tr>
+		<tr><td><input type="submit" value="Materias" id="btnMaterias" name="btnMaterias" class="boton"></td></tr>
+		<tr><td><input type="submit" value="Alumnos" id="btnAlumnos" name="btnAlumnos" class="boton"></td></tr>
+		<tr><td><input type="submit" value="Calificaciones" id="btnCalificaciones" name="btnCalificaciones" class="boton"></td></tr>
+		<tr><td><input type="submit" value="Terminar" id="btnTerminar" name="btnTerminar" class="boton"></td></tr>
+	</table>
+</body>
+</html>

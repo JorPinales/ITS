@@ -1,0 +1,8 @@
+{"calificaciones":[
+	{"id":"1","matriculaId":"2BJS5214","cursoId":"2","profesorId":"16","ciclo":"EJ2018","anio":"2018-06-01","calif":"85"},
+	{"id":"2","matriculaId":"2BJS5214","cursoId":"1","profesorId":"16","ciclo":"EJ2018","anio":"2018-06-01","calif":"85"},
+	{"id":"3","matriculaId":"2BJS5214","cursoId":"2","profesorId":"17","ciclo":"EJ2018","anio":"2018-06-01","calif":"92"},
+	{"id":"4","matriculaId":"2BJS5214","cursoId":"3","profesorId":"15","ciclo":"EJ2018","anio":"2018-06-01","calif":"89"},
+	{"id":"5","matriculaId":"3UZO5314","cursoId":"1","profesorId":"16","ciclo":"EJ2018","anio":"2018-06-01","calif":"99"},
+	{"id":"6","matriculaId":"5NMM5414","cursoId":"12","profesorId":"14","ciclo":"EJ2018","anio":"2018-06-10","calif":"73"}
+]}
